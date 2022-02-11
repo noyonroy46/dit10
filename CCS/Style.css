@@ -1,0 +1,45 @@
+
+/* CSS Universal Selector */
+
+*{
+    text-align: center;
+    color: rgb(233, 102, 15);}
+
+    #main{
+        background-color: rgb(66, 34, 139);
+       width: 300px;
+    }
+   
+input[type="submit"] {
+    width: 50%;
+    background-color: darkgreen;color: darkgrey;
+}
+.sinup {
+    box-shadow: turquoise;
+    background-color: rgb(9, 255, 83);
+    text-align: center;
+    width: 500px;
+}
+.e{
+    width: 200%;}
+    .forget{
+        background-color: blue;
+        width: 500px;
+    }
+h2{
+    color: aqua;}
+    a{
+        color: rgb(200, 255, 0);
+    }
+    .ss{
+        text-align: center;
+        text-align: left;
+        width: 500px;
+        text-align: inherit;
+       background-color: rgb(118, 19, 175);
+    }
+    .nn{
+        color: rgb(198, 235, 221);
+        background-color: brown;
+    }
+    
